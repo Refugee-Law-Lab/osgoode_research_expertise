@@ -15,4 +15,4 @@ To run, open 'srape_visualize_notebooke.ipynb'.
 
 License: [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 
-Citation: Sean Rehaag, "Notebook to gather and visualize data about all Osgoode Hall Law School faculty member research expertise" (28 February 2023) online: https://github.com/Refugee-Law-Lab/osgoode_research_expertise.
+Citation: Sean Rehaag, "Notebook to gather and visualize data about law faculty member research expertise" (28 February 2023) online: https://github.com/Refugee-Law-Lab/osgoode_research_expertise.
