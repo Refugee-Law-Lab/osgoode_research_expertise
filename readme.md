@@ -1,4 +1,4 @@
-### Repo with notebook to gather and visualize data about all Osgoode Hall Law School faculty member research expertise
+### Repo with notebook to gather and visualize data about law faculty member research expertise
 
 Requirements:
     
