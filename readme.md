@@ -11,7 +11,9 @@ Requirements:
 Also requires [OpenAI account](https://openai.com/) and [OpenAI API key](https://platform.openai.com/account/api-keys). The key must be placed in a text file and pointed 
 to in the setup cell (open_ai_inpath) below. Alternatively, store API key in os environment variable and use the commented out snippet in setup below.
 
-To run, open 'srape_visualize_notebooke.ipynb'.
+To update scraping, run 'srape_bios.ipynb'.
+
+To undertake analysis and visualize, run 'visualize_research_expertise.ipynb'
 
 License: [CC BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/)
 
